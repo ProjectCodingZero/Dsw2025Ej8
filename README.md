@@ -1,8 +1,8 @@
 # Ejercicio N° 8
 ## Desarrollo de Software
 ### Integrantes
-~ Mariano Leonel Islas Encalada 56570
-~ Diego Daniel Gomez 56800
+* Mariano Leonel Islas Encalada 56570
+* Diego Daniel Gomez 56800
 ### Herencia y propiedades
 
 1. Realizar una bifurcación (fork) del [repositorio](https://github.com/ing-software-frt-utn/dsw2025ej8)
